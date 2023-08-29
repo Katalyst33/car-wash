@@ -3,7 +3,7 @@
     <div class="p-20">
       <h1 class="text-4xl font-bold mb-4 text-center">Under Construction</h1>
       <p class="text-gray-600 text-center">
-        We are updating our Web Application to give you something awseom
+        We are updating our Web Application to give you something awesome
       </p>
 
       <PackagesSection
